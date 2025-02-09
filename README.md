@@ -33,10 +33,9 @@
 
 - 🌱 I’m currently learning **CNN, Deep Learning**
 
-
 - 📫 How to reach me **alshiumed@gmail.com**
 
-- ⚡ Fun fact **My Roll Number has always been #1**
+
 
 
 
